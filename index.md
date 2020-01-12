@@ -2,4 +2,4 @@
 
 这是用github page搭建个人博客。
 
-Wiki https://github.com/likai0373/likai0373.github.io/wiki
+[Wiki](https://github.com/likai0373/likai0373.github.io/wiki)
